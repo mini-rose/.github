@@ -1,0 +1,17 @@
+mini-rose
+---------
+
+Collection of minimalistic code built with care. A lot of software these days
+is overly bloated - it wants to do a lot of things apart from their main goal,
+which is not ideal for a clean working enviroment.
+
+Our software is built for programmers who want to do their own thing, by making
+readable code with minimal dependencies. All of it is under the same licence:
+
+
+Copyright (c) 2022 mini-rose
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and any associated documentation files to modify, copy, merge,
+publish, distribute and/or sublicense copies of this sotware for their own use.
+This code does not come with any warranty.

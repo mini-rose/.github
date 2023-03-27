@@ -1,8 +1,7 @@
 ABOUT
-	Collection of minimalistic code built with care. 
-	A lot of software these days is overly bloated - it wants to do 
-	a lot of things apart from their  main goal, which is 
-	not ideal for a clean working enviroment.
+	Collection of minimalistic code built with care. Most software these days is overly
+	bloated - it wants to do many things not related to its purpose, slowing down the
+	overall performace and code size & maintainability.
 
 	Our software is built for programmers who want to do their own thing, by making
 	readable code with minimal dependencies. 
